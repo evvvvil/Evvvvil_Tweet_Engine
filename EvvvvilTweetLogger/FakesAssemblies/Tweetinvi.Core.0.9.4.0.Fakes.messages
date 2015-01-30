@@ -1,0 +1,200 @@
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.DistanceMeasure: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.HttpMethod: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.ImageSize: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.Language: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.PlaceType: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.PrivacyMode: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.SearchResultType: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Enum.StreamState: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Events.WebExceptionHandlingDelegate: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Events.ObjectResponseDelegate: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Events.DynamicResponseDelegate: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Events.EventHelpers: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Extensions.ExceptionExtension: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Extensions.IEnumerableExtension: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Extensions.LanguageExtension: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Extensions.StringExtension: type is sealed.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Helpers.IWebHelper: Could not resolve assembly 'System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, Retargetable=Yes'. Are you missing an assembly reference?.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Injectinvi.RegistrationLifetime: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Interfaces.Models.Parameters.TweetSearchFilter: type is a value type.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate stub for Tweetinvi.Core.Interfaces.oAuth.IOAuthWebRequestGenerator: Could not resolve assembly 'System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, Retargetable=Yes'. Are you missing an assembly reference?.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.DistanceMeasure: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.HttpMethod: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.ImageSize: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.Language: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.PlaceType: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.PrivacyMode: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.SearchResultType: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Enum.StreamState: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Events.WebExceptionHandlingDelegate: type is a delegate.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Events.ObjectResponseDelegate: type is a delegate.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Events.DynamicResponseDelegate: type is a delegate.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Exceptions.ITwitterException: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Exceptions.ITwitterExceptionInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Exceptions.IWebExceptionInfoExtractor: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Exceptions.ITwitterTimeoutException: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Extensions.LanguageExtension+<>c__DisplayClass2: type is not supported because of internal limitations.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Extensions.StringExtension: Could not resolve assembly 'System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, Retargetable=Yes'. Are you missing an assembly reference?.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.IJsonObjectConverter: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.IJsonPropertyConverterRepository: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.ITwitterStringFormatter: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.IWebHelper: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.ISynchronousInvoker: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.ITaskFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.TaskFactory+<ExecuteTaskAsync>d__0: type is not supported because of internal limitations.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Helpers.TaskFactory+<ExecuteTaskAsync>d__3`1: type is not supported because of internal limitations.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Injectinvi.IConstructorNamedParameter: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Injectinvi.IFactory`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Injectinvi.ITweetinviModule: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Injectinvi.ITweetinviContainer: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Injectinvi.RegistrationLifetime: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Async.IMessageAsync: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Async.ITweetAsync: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Async.ITweetListAsync: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Async.IUserAsync: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IAccountController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IFriendshipController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IGeoController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IHelpController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IMessageController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.ISavedSearchController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.ITimelineController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.ITrendsController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.ITweetController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.ITweetListController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Controllers.IUserController: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.ICredentialsAccessor: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IMedia: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ISearchMetadata: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ISearchResultsDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetFromSearchMetadata: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetWithSearchMetadataDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.QueryDTO.ICursorQueryHelper: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.IUserIdentifierFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Async.ILoggedUserAsync: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.IUser: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ILoggedUser: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.IRateLimit: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IConsumerCredentials: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.ITemporaryCredentials: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.ITokenRateLimit: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.ITokenRateLimits: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.ITwitterAccessor: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Credentials.IWebTokenCreator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.QueryDTO.IBaseCursorQueryDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.QueryDTO.IBaseCursorQueryDTO`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.QueryDTO.IIdsCursorQueryResultDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.QueryDTO.IUserCursorQueryResultDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IAccountSettingsDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IDisconnectMessage: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IDisconnectMessageDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IMessageDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IOEmbedTweetDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IRelationshipDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IRelationshipStateDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ISavedSearchDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetDeletedInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetListDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetLocationDeletedInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetLocationRemovedInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.ITweetWitheldInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IUserIdentifier: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IUserDTO: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.DTO.IUserWitheldInfo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Exceptions.IExceptionHandler: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.ICredentialsFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.IFriendshipFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.IGeoFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.IMessageFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.ISavedSearchFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.ITweetFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.ITweetListFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.IUserFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ITweetIdentifier: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ITweet: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.IMention: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.IMessage: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.IRelationship: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ISearchQueryResult: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ISearchResult: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.ITweetinviSettings: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ITweetList: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.ITweetWithSearchMetadata: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IDescriptionEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IUserEntities: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IWebsiteEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Factories.ISearchResultFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.ITimelineRequestParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.IHomeTimelineRequestParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.IMentionsTimelineRequestParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.IRetweetsOfMeTimelineRequestParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.TweetSearchFilter: type is an enum.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.ITweetSearchParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IAccountSettings: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ICoordinates: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IFriendshipAuthorizations: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IGeo: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IGeoCode: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IHashtagEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ILocation: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IMediaEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IMediaEntitySize: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IOEmbedTweet: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IPlace: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IPlaceTrends: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IRelationshipState: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ISavedSearch: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ISearchEngine`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ISuggestedUserList: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ITimeZone: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ITrend: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.ITrendLocation: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.ITweetEntities: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IUrlEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Entities.IUserMentionEntity: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IUserSearchEngine: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IWarningMessage: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IWarningMessageFallingBehind: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IWarningMessageTooManyFollowers: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.IWoeIdLocation: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.Parameters.IUserTimelineRequestParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Models.TokenRateLimits+RateLimitResources: type is not visible to exported or assembly(Tweetinvi.Core.0.9.4.0.Fakes).
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IMultipartElement: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IMultipartRequestConfiguration: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IMultipartWebRequest: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IOAuthCredentials: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IOAuthWebRequestGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IOAuthQueryParameter: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.ITwitterRequester: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.ITwitterRequestGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.oAuth.IWebRequestExecutor: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Parameters.IListCreateParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Parameters.IListDestroyParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Parameters.IListIdentifier: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Parameters.IListIdentifierFactory: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Parameters.IListUpdateParameters: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryGenerators.IFriendshipQueryGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryGenerators.ITweetListQueryParameterGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryGenerators.ITweetQueryGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryGenerators.IUserQueryGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryGenerators.IUserQueryParameterGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryValidators.ITweetListQueryValidator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.QueryValidators.IUserQueryValidator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITwitterStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITrackableStream`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.IFilteredStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ISampleStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.IStream`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.IStreamResultGenerator: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITrackManager`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITrackStringAnalyzer: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.IStreamTrackManager`1: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITrackedStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.ITweetStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Interfaces.Streaminvi.IUserStream: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.ITweetinviSettingsAccessor: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Wrappers.IJsonConvertWrapper: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Wrappers.IJObjectStaticWrapper: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Wrappers.IResolverOverrideWrapper: type is an interface.
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetLogger\Fakes\Tweetinvi.Core.fakes : warning : Cannot generate shim for Tweetinvi.Core.Wrappers.IParameterOverrideWrapper: type is an interface.

@@ -1,0 +1,79 @@
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll.config
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.pdb
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Autofac.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\PCLWebUtility.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.IO.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Runtime.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Threading.Tasks.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Controllers.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Core.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Credentials.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Factories.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Logic.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Security.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Streams.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.WebLogic.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Autofac.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.IO.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Runtime.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Threading.Tasks.xml
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.csproj.App.config
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.dll
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.pdb
+C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\EvvvvilTweetEngine\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.csprojResolveAssemblyReference.cache
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll.config
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.pdb
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Autofac.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\PCLWebUtility.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Controllers.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Core.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Credentials.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Factories.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Logic.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Security.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Streams.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.WebLogic.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.dll
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.pdb
+E:\back_delete\EVVVVILTWEETENGINE\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.csprojResolveAssemblyReference.cache
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll.config
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\EvvvvilTweetSearch.pdb
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Autofac.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\PCLWebUtility.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Controllers.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Core.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Credentials.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Factories.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Logic.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Security.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.Streams.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\bin\AnyCPU\Debug\Tweetinvi.WebLogic.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.csprojResolveAssemblyReference.cache
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.dll
+E:\back_delete\EVVVVILTWEETENGINE - Source\EvvvvilTweetSearch\obj\Debug\EvvvvilTweetSearch.pdb

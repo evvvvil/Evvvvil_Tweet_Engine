@@ -1,0 +1,45 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta31.dtd" >
+   <PATCH nodename="C:\Users\evvvvil\Documents\Visual Studio 2013\Projects\evvvvilTweetEngine\plugins\evvvvilTweetEngine\bin\x86\Debug\EvvvvilTweet (Network) help.v4p">
+   <BOUNDS type="Window" left="2205" top="8115" width="9000" height="6000">
+   </BOUNDS>
+   <NODE nodename="IOBox (String)" componentmode="InABox" id="3" systemname="IOBox (String)">
+   <BOUNDS type="Node" left="150" top="150" width="5000" height="450">
+   </BOUNDS>
+   <BOUNDS type="Box" left="150" top="150" width="5000" height="450">
+   </BOUNDS>
+   <PIN pinname="Input String" slicecount="1" visible="0" values="|EvvvvilTweet (Network)|">
+   </PIN>
+   <PIN pinname="Output String" visible="0">
+   </PIN>
+   <PIN pinname="Size" slicecount="1" visible="1" values="14">
+   </PIN>
+   </NODE>
+   <NODE nodename="IOBox (String)" componentmode="InABox" id="2" systemname="IOBox (String)">
+   <BOUNDS type="Node" left="150" top="550" width="5000" height="500">
+   </BOUNDS>
+   <BOUNDS type="Box" left="150" top="550" width="5000" height="500">
+   </BOUNDS>
+   <PIN pinname="Input String" slicecount="1" visible="0" values="|The ultimate Twitter API vvvv plug in|">
+   </PIN>
+   <PIN pinname="Output String" visible="0">
+   </PIN>
+   </NODE>
+   <NODE nodename="IOBox (String)" componentmode="InABox" id="1" systemname="IOBox (String)">
+   <BOUNDS type="Node" left="1300" top="1800" width="6600" height="1000">
+   </BOUNDS>
+   <BOUNDS type="Box" left="1300" top="1800" width="6600" height="1000">
+   </BOUNDS>
+   <PIN pinname="Size" slicecount="1" visible="1" values="12">
+   </PIN>
+   <PIN pinname="Input String" slicecount="1" visible="0" values="|This helpatch is still missing. See http://vvvv.org/documentation/conventions.helppatch for how to make a good one!|">
+   </PIN>
+   <PIN pinname="Output String" visible="0">
+   </PIN>
+   </NODE>
+   <NODE nodename="EvvvvilTweet (Network)" componentmode="Hidden" id="0" systemname="EvvvvilTweet (Network)" filename="evvvvilTweetEngine.dll">
+   <BOUNDS type="Node" left="2500" top="3500" width="0" height="0">
+   </BOUNDS>
+   <BOUNDS type="Box" left="2500" top="3500" width="0" height="0">
+   </BOUNDS>
+   </NODE>
+   </PATCH>
